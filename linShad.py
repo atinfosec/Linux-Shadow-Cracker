@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Created by Ashutosh
+Created by atinfosec
 Title: Linux Shadow Cracker
 Description: This script cracks linux shadow file using bruteforce technique.
 This script needs root privileges if you are cracking shadow file directly
